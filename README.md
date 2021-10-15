@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at Bharti Vidyapeeth University.
 - 💼 &nbsp; Working as Full-Stack developer at Intellimedianetworks.
 - 🌱 &nbsp; Learning more about GraphQL, Typescript, DevOps.
 - ✍️ &nbsp; Pursuing MSc-IT.
