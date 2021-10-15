@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at Bharti Vidyapeeth University.
 - 💼 &nbsp; Working as Full-Stack developer at Intellimedianetworks.
-- 🌱 &nbsp; Learning more about GraphQL, Typescript, DevOps.
+- 🌱 &nbsp; Learning more about Reactjs, StyledComponent, Typescript, Nodejs, GraphQL, MongoDB, PostgreSQL, DevOps.
 - ✍️ &nbsp; Pursuing MSc-IT.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
